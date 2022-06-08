@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
   "scripts": {
+    "function": "nodemon ./js/function.js",
+    "if": "nodemon ./js/if.js",
+    "string": "nodemon ./js/string.js",
+    "number": "nodemon ./js/number.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
