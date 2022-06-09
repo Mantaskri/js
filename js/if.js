@@ -44,3 +44,4 @@ if (x === 'labas') {
     console.log('TAIP');
 } else {
     console.log('NE');
+}
