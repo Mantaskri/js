@@ -11,6 +11,7 @@
     "number": "nodemon ./js/number.js",
     "ternary": "nodemon ./js/ternary.js",
     "for": "nodemon ./js/for.js",
+    "array": "nodemon ./js/array.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
