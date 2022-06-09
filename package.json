@@ -9,6 +9,7 @@
     "if": "nodemon ./js/if.js",
     "string": "nodemon ./js/string.js",
     "number": "nodemon ./js/number.js",
+    "ternary": "nodemon ./js/ternary.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
