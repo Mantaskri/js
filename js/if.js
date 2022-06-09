@@ -6,10 +6,16 @@ if () {} else {}
 if () {} else if () {}
 if () {} else if () {} ....  else if () {}
 if () {} else if () {} ....  else if () {} else {}
+
 Palyginimo operatoriai:
-visi: >, <, >=, >=, <=, <=, ==, !=, ===, !==
-naudotini: >, <, >=, >=, <=, <=, ===, !==
+visi: >, <, >=, <=, ==, !=, ===, !==
+naudotini: >, <, >=, <=, ===, !==
 nenaudotini: ==, !=
+
+Loginiai operatoriai:
+&& (and) -turi tenkinti visas salygas
+|| (or) - turi tenkinti bent viena salyga
+
 */
 
 const a = 77;
