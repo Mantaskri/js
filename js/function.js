@@ -25,7 +25,7 @@ function atimtis(a, b) {
 }
 
 const n1 = 7;
-const n2 = 'asd';
+const n2 = 5;
 const s1 = sumavimas(n1, n2);
 const a1 = atimtis(n1, n2);
 const m1 = daugyba(n1, n2);
