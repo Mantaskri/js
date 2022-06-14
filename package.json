@@ -5,6 +5,7 @@
   "main": "index.js",
 
   "scripts": {
+    "string-array": "nodemon ./js/string-array.js",
     "other-loops": "nodemon ./js/other-loops.js",
     "switch": "nodemon ./js/switch.js",
     "function": "nodemon ./js/function.js",
