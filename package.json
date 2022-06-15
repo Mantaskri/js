@@ -5,6 +5,7 @@
   "main": "index.js",
 
   "scripts": {
+    "math-as-object": "nodemon ./js/math-as-object.js",
     "object": "nodemon ./js/object.js",
     "string-array": "nodemon ./js/string-array.js",
     "other-loops": "nodemon ./js/other-loops.js",
