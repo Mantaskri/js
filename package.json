@@ -5,6 +5,7 @@
   "main": "index.js",
 
   "scripts": {
+    "letterCount": "nodemon ./js/letterCount.js",
     "math-as-object": "nodemon ./js/math-as-object.js",
     "object": "nodemon ./js/object.js",
     "string-array": "nodemon ./js/string-array.js",
