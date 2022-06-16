@@ -7,7 +7,8 @@ const n2 = 5;
 function suma(a, b) {
     if (typeof a !== 'number') {
 
-//parseInt - grazina skaiciu i kintamaji (a)
+//parseInt - grazina sveikaji skaiciu i kintamaji (a)
+//parseFloat - grazina desimtaini skaiciu i kintamaji
 
         a = parseInt(a);
         if (typeof a !== 'number') {
