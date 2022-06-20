@@ -6,6 +6,7 @@
 
   "scripts": {
     "textCount": "nodemon ./js/textCount.js",
+    "set": "nodemon ./js/set.js",
     "random": "nodemon ./js/random.js",
     "parsing": "nodemon ./js/parsing.js",
     "cw-stats": "nodemon ./js/cw-stats.js",
