@@ -5,6 +5,7 @@
   "main": "index.js",
 
   "scripts": {
+    "maxInList": "nodemon ./js/maxInList.js",
     "textCount": "nodemon ./js/textCount.js",
     "pairCount": "nodemon ./js/pairCount.js",
     "set": "nodemon ./js/set.js",
