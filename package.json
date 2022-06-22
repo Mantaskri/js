@@ -5,6 +5,7 @@
   "main": "index.js",
 
   "scripts": {
+    "family": "nodemon ./js/family.js",
     "maxInList": "nodemon ./js/maxInList.js",
     "textCount": "nodemon ./js/textCount.js",
     "pairCount": "nodemon ./js/pairCount.js",
