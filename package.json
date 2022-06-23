@@ -6,6 +6,7 @@
 
   "scripts": {
     "family": "nodemon ./js/family.js",
+    "pc-storage": "nodemon ./js/pc-storage.js",
     "maxInList": "nodemon ./js/maxInList.js",
     "textCount": "nodemon ./js/textCount.js",
     "pairCount": "nodemon ./js/pairCount.js",
